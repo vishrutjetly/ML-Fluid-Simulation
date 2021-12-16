@@ -38,6 +38,10 @@ We know that Neural Networks require a huge amount of training data. In this pro
 </figure>
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
 <p float="center">
 <figure>
@@ -46,13 +50,10 @@ We know that Neural Networks require a huge amount of training data. In this pro
 </figure>
 </p>
 
-
-<p float="center">
-<figure>
-<img src="https://github.com/vishrutjetly/CSCI596-FinalProject/blob/main/graphics/Flip_vs_MLFlip.gif" style="width:100%">
-<center><figcaption align = "center">Comparision between FLIP and the Machine Learning FLIP</figcaption></center>
-</figure>
-</p>
+<br>
+<br>
+<br>
+<br>
 
 
 <p float="center">
@@ -61,6 +62,11 @@ We know that Neural Networks require a huge amount of training data. In this pro
 <center><figcaption align = "center">Change in neural network's output on increasing the amount of training data by 10 times</figcaption></center>
 </figure>
 </p>
+
+<br>
+<br>
+<br>
+<br>
 
 
 <p float="center">
@@ -71,6 +77,12 @@ We know that Neural Networks require a huge amount of training data. In this pro
 </p>
 
 
+<br>
+<br>
+<br>
+<br>
+
+
 <p float="center">
 <figure>
 <img src="https://github.com/vishrutjetly/CSCI596-FinalProject/blob/main/graphics/ActualGravity.gif" style="width:100%">
@@ -78,6 +90,10 @@ We know that Neural Networks require a huge amount of training data. In this pro
 </figure>
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
 <p float="center">
 <figure>
