@@ -1,0 +1,15 @@
+#include "timing.h"
++Timings^ static const Pb::Register _R_$IDX$ ("Timings","Timings","PbClass"); template<> const char* Namify<Timings >::S = "Timings"; 
+>Timings^
++Timings^ static const Pb::Register _R_$IDX$ ("Timings","Timings",Timings::_W_0); 
++Timings^ static const Pb::Register _R_$IDX$ ("Timings","display",Timings::_W_1); 
++Timings^ static const Pb::Register _R_$IDX$ ("Timings","step",Timings::_W_2); 
++Timings^ static const Pb::Register _R_$IDX$ ("Timings","saveMean",Timings::_W_3); 
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","Timer","PbClass"); template<> const char* Namify<Timer >::S = "Timer"; 
+>Timer^
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","Timer",Timer::_W_4); 
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","push",Timer::_W_5); 
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","pop",Timer::_W_6); 
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","popName",Timer::_W_7); 
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","popTiming",Timer::_W_8); 
++Timer^ static const Pb::Register _R_$IDX$ ("Timer","popTimingStr",Timer::_W_9); 

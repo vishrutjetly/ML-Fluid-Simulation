@@ -1,0 +1,23 @@
+#include "sphsolver.h"
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","SphWorld","PbClass"); template<> const char* Namify<SphWorld >::S = "SphWorld"; 
+>SphWorld^
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","SphWorld",SphWorld::_W_0); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","bindParticleSystem",SphWorld::_W_1); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","updateDelta",SphWorld::_W_2); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","updateDensity",SphWorld::_W_3); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","updateSoundSpeed",SphWorld::_W_4); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","updateGamma",SphWorld::_W_5); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","limitDtByVmax",SphWorld::_W_6); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","limitDtByFmax",SphWorld::_W_7); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","limitDtByGravity",SphWorld::_W_8); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","limitDtByViscous",SphWorld::_W_9); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","showParameters",SphWorld::_W_10); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","alpha",SphWorld::_GET__alpha,SphWorld::_SET__alpha); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","c",SphWorld::_GET__c,SphWorld::_SET__c); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","density",SphWorld::_GET__d0,SphWorld::_SET__d0); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","delta",SphWorld::_GET__delta,SphWorld::_SET__delta); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","eta",SphWorld::_GET__eta,SphWorld::_SET__eta); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","gravity",SphWorld::_GET__g,SphWorld::_SET__g); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","gamma",SphWorld::_GET__gamma,SphWorld::_SET__gamma); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","mass",SphWorld::_GET__m0,SphWorld::_SET__m0); 
++SphWorld^ static const Pb::Register _R_$IDX$ ("SphWorld","pressure",SphWorld::_GET__p0,SphWorld::_SET__p0); 

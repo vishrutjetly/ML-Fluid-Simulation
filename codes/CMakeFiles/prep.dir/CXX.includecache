@@ -1,0 +1,138 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/code.cpp
+iostream
+-
+cstdlib
+-
+algorithm
+-
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/code.h
+string
+-
+vector
+-
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/codegen_kernel.cpp
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+cstdlib
+-
+set
+-
+sstream
+-
+iostream
+-
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/codegen_python.cpp
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+cstdlib
+-
+set
+-
+sstream
+-
+iostream
+-
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/main.cpp
+string
+-
+sstream
+-
+fstream
+-
+streambuf
+-
+iostream
+-
+cstdlib
+-
+cstring
+-
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/merge.cpp
+map
+-
+iostream
+-
+sstream
+-
+cstdlib
+-
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/parse.cpp
+iostream
+-
+cstdlib
+-
+algorithm
+-
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+util.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/util.h
+code.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/code.h
+tokenize.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/tokenize.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/tokenize.cpp
+string
+-
+iostream
+-
+vector
+-
+algorithm
+-
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/tokenize.h
+string
+-
+vector
+-
+code.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/code.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/util.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+algorithm
+-
+stack
+-
+prep.h
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/prep.h
+
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/source/preprocessor/util.h
+string
+-
+sstream
+-
+vector
+-
+

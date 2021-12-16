@@ -1,0 +1,34 @@
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['/tmp/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/epochs', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output batch_normalization_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_1.
+WARNING:tensorflow:Output batch_normalization_3 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_3.
+WARNING:tensorflow:Output batch_normalization_5 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_5.
+WARNING:tensorflow:`period` argument is deprecated. Please use `save_freq` to specify the frequency in number of batches seen.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['/tmp/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/epochs/model_1', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output batch_normalization_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_1.
+WARNING:tensorflow:Output batch_normalization_3 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_3.
+WARNING:tensorflow:Output batch_normalization_5 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_5.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['/tmp/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/epochs/model_1', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output batch_normalization_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_1.
+WARNING:tensorflow:Output batch_normalization_3 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_3.
+WARNING:tensorflow:Output batch_normalization_5 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_5.

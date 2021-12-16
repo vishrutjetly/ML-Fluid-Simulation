@@ -1,0 +1,2 @@
+Linux a02-06.hpc.usc.edu 3.10.0-1062.4.1.el7.x86_64 #1 SMP Fri Oct 18 17:15:30 UTC 2019 x86_64
+scenes/tf_train.py --mve -o /tmp/tfmodel/ ../training_data/tdata/

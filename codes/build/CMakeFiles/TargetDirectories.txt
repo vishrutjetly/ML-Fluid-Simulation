@@ -1,0 +1,4 @@
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip/build/CMakeFiles/rebuild_cache.dir
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip/build/CMakeFiles/edit_cache.dir
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip/build/CMakeFiles/manta.dir
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip/build/CMakeFiles/prep.dir

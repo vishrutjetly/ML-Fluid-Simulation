@@ -1,0 +1,8 @@
+-DMANTAVERSION="0.12"
+-DMT=1
+-DOPENMP=1
+-DNUMPY=1
+-DGUI=1
+-o
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/pp/source/gui/moc_painter.cpp
+/home/vishrut/Study/USC/Sem-1/CSCI 596: Scientific Computing and Visualization/project/mlflip-mod/pp/source/gui/painter.h

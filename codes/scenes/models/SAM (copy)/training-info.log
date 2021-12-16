@@ -1,0 +1,125 @@
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/BigData/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:99476 tuples have been loaded; randomly selected 74607 for the training set and 24869 for the test set
+INFO:root:{'inputs': 5.772246, 'labels': 1.0, 'modvel': 3.4797614}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/BigData/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:99476 tuples have been loaded; randomly selected 74607 for the training set and 24869 for the test set
+INFO:root:{'inputs': 5.772246, 'labels': 1.0, 'modvel': 3.4797614}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output batch_normalization_7 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_7.
+WARNING:tensorflow:Output batch_normalization_9 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_9.
+WARNING:tensorflow:Output batch_normalization_11 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to batch_normalization_11.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+WARNING:tensorflow:Output output_2 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_2.
+WARNING:tensorflow:Output output_3 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_3.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:From /usr/local/lib/python3.8/dist-packages/tensorflow/python/keras/layers/normalization.py:534: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:Output output_1 missing from loss dictionary. We assume this was done on purpose. The fit and evaluate APIs will not be expecting any data to be passed to output_1.
+INFO:root:tensorflow-2.5.0 (/usr/local/lib/python3.8/dist-packages/tensorflow/include, /usr/local/lib/python3.8/dist-packages/tensorflow)
+INFO:root:Namespace(batch=5000, dact='none-tanh-tanh', datadirs=['../training_data/Original/tdata/'], ddrop=0.1, decay=0.1, dnet='27-34-2', ftest=0.25, load=False, lstep=100, mact='none-tanh-tanh', mdrop=0.1, mnet='27-34-2', mve=True, nosmax=False, output='models/SAM', stats=False, steps=10000)
+INFO:root:8376 tuples have been loaded; randomly selected 6282 for the training set and 2094 for the test set
+INFO:root:{'inputs': 3.7656653, 'labels': 1.0, 'modvel': 2.749637}
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+INFO:root:Neural network structure: detection 27-34-2 and modification 27-34-2
+WARNING:tensorflow:Skipping full serialization of Keras layer <__main__.SAMModel object at 0x7f54fc122730>, because it is not built.
+WARNING:tensorflow:Model was constructed with shape (None, 27) for input KerasTensor(type_spec=TensorSpec(shape=(None, 27), dtype=tf.float32, name='input_2'), name='input_2', description="created by layer 'input_2'"), but it was called on an input with incompatible shape (27,).
+WARNING:tensorflow:Model was constructed with shape (None, 2) for input KerasTensor(type_spec=TensorSpec(shape=(None, 2), dtype=tf.float32, name='input_3'), name='input_3', description="created by layer 'input_3'"), but it was called on an input with incompatible shape (2,).
+WARNING:tensorflow:Model was constructed with shape (None, 2) for input KerasTensor(type_spec=TensorSpec(shape=(None, 2), dtype=tf.float32, name='input_4'), name='input_4', description="created by layer 'input_4'"), but it was called on an input with incompatible shape (2,).
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:tensorflow:Assets written to: models/SAM/model-1/assets
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:tensorflow:Assets written to: models/SAM/model-10/assets
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:tensorflow:Assets written to: models/SAM/model-100/assets
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:tensorflow:Assets written to: models/SAM/model-1000/assets
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:tensorflow:Assets written to: models/SAM/model-10000/assets
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:tensorflow:Assets written to: models/SAM/model/assets
+WARNING:tensorflow:No training configuration found in save file, so the model was *not* compiled. Compile it manually.

@@ -1,0 +1,9 @@
+#include "sphkernel.h"
++CubicSpline^ static const Pb::Register _R_$IDX$ ("CubicSpline","CubicSpline","PbClass"); template<> const char* Namify<CubicSpline >::S = "CubicSpline"; 
+>CubicSpline^
++CubicSpline^ static const Pb::Register _R_$IDX$ ("CubicSpline","CubicSpline",CubicSpline::_W_0); 
++CubicSpline^ static const Pb::Register _R_$IDX$ ("CubicSpline","radius",CubicSpline::_W_1); 
++CubicSpline^ static const Pb::Register _R_$IDX$ ("CubicSpline","supportRadius",CubicSpline::_W_2); 
++BndKernel^ static const Pb::Register _R_$IDX$ ("BndKernel","BndKernel","PbClass"); template<> const char* Namify<BndKernel >::S = "BndKernel"; 
+>BndKernel^
++BndKernel^ static const Pb::Register _R_$IDX$ ("BndKernel","BndKernel",BndKernel::_W_3); 

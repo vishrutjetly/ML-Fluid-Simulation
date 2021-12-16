@@ -1,0 +1,6 @@
+#include "pneighbors.h"
++ParticleNeighbors^ static const Pb::Register _R_$IDX$ ("ParticleNeighbors","ParticleNeighbors","PbClass"); template<> const char* Namify<ParticleNeighbors >::S = "ParticleNeighbors"; 
+>ParticleNeighbors^
++ParticleNeighbors^ static const Pb::Register _R_$IDX$ ("ParticleNeighbors","ParticleNeighbors",ParticleNeighbors::_W_0); 
++ParticleNeighbors^ static const Pb::Register _R_$IDX$ ("ParticleNeighbors","update",ParticleNeighbors::_W_1); 
++ParticleNeighbors^ static const Pb::Register _R_$IDX$ ("ParticleNeighbors","updateDistance",ParticleNeighbors::_W_2); 
