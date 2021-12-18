@@ -33,10 +33,8 @@ Machine learning models learn trends in data by minimizing a loss value. With an
 ## Results and Insights
 
 <p align="center">
-<figure>
 <img src="https://github.com/vishrutjetly/CSCI596-FinalProject/blob/main/graphics/Flip_vs_MLFlip.gif" style="width:100%">
-<figcaption><font size="24"><strong>Figure 1.</strong> Comparision between FLIP and the Machine Learning FLIP</font></figcaption>
-</figure>
+<font size="24"><strong>Figure 1.</strong> Comparision between FLIP and the Machine Learning FLIP</font>
 </p>
 
 Figure 1. shows the comparison between standard flip and machine learning enhanced flip with the same base grid size resolution. Visual improvement can be clearly seen in the case of MLFLIP. Further details are reported in [[1]](#1) 
@@ -45,7 +43,7 @@ Figure 1. shows the comparison between standard flip and machine learning enhanc
 <br>
 
 <p align="center">
-<figure>
+<figure align = "center">
 <img src="https://github.com/vishrutjetly/CSCI596-FinalProject/blob/main/graphics/CompareEpochs.gif" style="width:100%">
 <figcaption><font size="24"><strong>Figure 2.</strong> Improvement in Fluid simulations with increasing epochs</font></figcaption>
 </figure>
